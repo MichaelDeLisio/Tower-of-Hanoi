@@ -28,3 +28,10 @@ In the tour.py file to determine the solution to a game with `r` rings and `p` p
 ## Screenshots
 
 ![Start of game screenshot](https://github.com/MichaelDeLisio/Tower-of-Hanoi/blob/main/screenshots/start_of_game.png)
+The starting configuration of the game.
+
+![Example moves](https://github.com/MichaelDeLisio/Tower-of-Hanoi/blob/main/screenshots/example_moves.png)
+An example of a few valid moves made. To move a ring click on the desired ring and then click on the black peg you wish to move it to.
+
+![Ending configuration](https://github.com/MichaelDeLisio/Tower-of-Hanoi/blob/main/screenshots/end_configuration.png)
+The desired ending configuration.
