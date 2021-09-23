@@ -27,4 +27,4 @@ In the tour.py file to determine the solution to a game with `r` rings and `p` p
 
 ## Screenshots
 
-![Start of game screenshot](https://github.com/MichaelDeLisio/Tower-of-Hanoi/screenshots/start_of_game.png)
+![Start of game screenshot](https://github.com/MichaelDeLisio/Tower-of-Hanoi/blob/main/screenshots/start_of_game.png)
